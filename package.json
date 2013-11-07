@@ -21,5 +21,12 @@
     "shasum": "ec23c1659b1edbfcef85c7e54d376f4df4af4266"
   },
   "_resolved": "full-minifier.tgz",
-  "_from": "full-minifier.tgz"
+  "_from": "full-minifier.tgz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iredmedia/full-minify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iredmedia/full-minify/issues"
+  }
 }
