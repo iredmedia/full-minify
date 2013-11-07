@@ -1,0 +1,25 @@
+{
+  "name": "full-minifier",
+  "version": "0.0.1",
+  "description": "A minification engine for a specific set of files",
+  "main": "full-minify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minify"
+  ],
+  "author": "Kevin Redman",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "clean-css": "~1.0.0",
+    "node-minify": "~0.8.1",
+    "css-b64-images-no-limit": "~0.2.4"
+  },
+  "devDependencies": {},
+  "dist": {
+    "shasum": "ec23c1659b1edbfcef85c7e54d376f4df4af4266"
+  },
+  "_resolved": "full-minifier.tgz",
+  "_from": "full-minifier.tgz"
+}
