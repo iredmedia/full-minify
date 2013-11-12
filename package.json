@@ -1,6 +1,6 @@
 {
   "name": "full-minifier",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A minification engine for a specific set of files",
   "main": "full-minify.js",
   "scripts": {
